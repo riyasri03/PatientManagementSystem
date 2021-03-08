@@ -30,3 +30,23 @@ The website is aimed to give a common platform where doctors and patients could 
  - In Nurse Login :-
      • she can search patient history based on patient id, name, contact, issue and month
      
+# Data Schema
+
+# Vue js
+
+vue run -g @vue/cli
+vue run serve
+
+components :- 
+navbar.vue
+
+views (renamed as pages) :- 
+home.vue
+registration.vue
+login.vue
+userlogin.vue
+doclogin.vue
+nurse.vue
+payment.vue
+
+
