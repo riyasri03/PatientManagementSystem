@@ -41,12 +41,12 @@ components :-
 navbar.vue
 
 views (renamed as pages) :- 
-    home.vue
-    registration.vue
-    login.vue
-    userlogin.vue
-    doclogin.vue
-    nurse.vue
-    payment.vue
+- home.vue
+- registration.vue
+- login.vue
+- userlogin.vue
+- doclogin.vue
+- nurse.vue
+- payment.vue
 
 
